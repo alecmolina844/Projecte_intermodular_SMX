@@ -1,0 +1,2 @@
+# Projecte_intermodular_SMX
+Projecte Intermodular
